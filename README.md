@@ -4,8 +4,8 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 ### Days: ###
 - [x] Day 1: Band Name Generator Start
 - [x] Day 2: Tip Calculator
-- [ ] Day 3:
-- [ ] Day 4:
+- [X] Day 3: Project Treasure Island
+- [ ] Day 4: Project Rock Paper Scissors
 - [ ] Day 5:
 - [ ] Day 6:
 - [ ] Day 7:
