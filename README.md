@@ -15,7 +15,7 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 11: Project -The Blackjacl Capstone
 - [X] Day 12: Scope & Number Guessing Game
 - [X] Day 13: Debugging: How to Find and Fix Errors in your Code
-- [ ] Day 14: Project - Higher Lower Game 
+- [X] Day 14: Project - Higher Lower Game 
 - [ ] Day 15:
 - [ ] Day 16:
 - [ ] Day 17:
