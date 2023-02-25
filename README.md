@@ -7,11 +7,11 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 3: If
 - [X] Day 4: List and Random
 - [X] Day 5: Loop
-- [ ] Day 6:
-- [ ] Day 7:
-- [ ] Day 8:
-- [ ] Day 9:
-- [ ] Day 10:
+- [X] Day 6: Function and While
+- [X] Day 7: Hangman Project
+- [X] Day 8: Fuction Parameters
+- [X] Day 9: Dictonary, Nesting, Scret Auction
+- [ ] Day 10: Fuctions with output
 - [ ] Day 11: 
 - [ ] Day 12: 
 - [ ] Day 13:
