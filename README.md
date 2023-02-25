@@ -12,9 +12,9 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 8: Fuction Parameters
 - [X] Day 9: Dictonary, Nesting, Scret Auction
 - [X] Day 10: Fuctions with output
-- [ ] Day 11: Project -The Blackjacl Capstone
-- [ ] Day 12: Scope & Number Guessing Game
-- [ ] Day 13: Debugging: How to Find and Fix Errors in your Code
+- [X] Day 11: Project -The Blackjacl Capstone
+- [X] Day 12: Scope & Number Guessing Game
+- [X] Day 13: Debugging: How to Find and Fix Errors in your Code
 - [ ] Day 14: Project - Higher Lower Game 
 - [ ] Day 15:
 - [ ] Day 16:
