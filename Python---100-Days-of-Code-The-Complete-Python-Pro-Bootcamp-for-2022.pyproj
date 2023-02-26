@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ea51e654-c6a9-4c92-a31f-af89bd3b699d}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>Day 15/main.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId>MSBuild|venv|$(MSBuildProjectFullPath)</InterpreterId>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Day 10\calculator\art.py" />
+    <Compile Include="Day 10\calculator\calculator-begin.py" />
+    <Compile Include="Day 10\calculator\main.py" />
+    <Compile Include="Day 10\Exercise 1 - Days in Month\main %281%29.py" />
+    <Compile Include="Day 11\art.py" />
+    <Compile Include="Day 11\main %281%29.py" />
+    <Compile Include="Day 12\art.py" />
+    <Compile Include="Day 12\main.py" />
+    <Compile Include="Day 13\Exercise 1 - Debugging Odd or Even\main %281%29.py" />
+    <Compile Include="Day 13\Exercise 2 - Debugging Leap Year\main.py" />
+    <Compile Include="Day 13\Exercise 3 - Debugging FizzBuzz\main %281%29.py" />
+    <Compile Include="Day 14\art.py" />
+    <Compile Include="Day 14\game_data.py" />
+    <Compile Include="Day 14\main.py" />
+    <Compile Include="Day 15\main.py" />
+    <Compile Include="Day 1\band-name-generator-start\main %281%29.py" />
+    <Compile Include="Day 1\Exercise 1 - Printing\main.py" />
+    <Compile Include="Day 1\Exercise 2 - Debugging Practice\main.py" />
+    <Compile Include="Day 1\Exercise 3 - Input Function\main.py" />
+    <Compile Include="Day 1\Exercise 4 - Variables\main.py" />
+    <Compile Include="Day 2\Exercise 1 - Data Types\main.py" />
+    <Compile Include="Day 2\Exercise 2 - BMI Calculator\main %281%29.py" />
+    <Compile Include="Day 2\Exercise 3 - Life in Weeks\main.py" />
+    <Compile Include="Day 2\Exercise 4 - tip-calculator-end\main.py" />
+    <Compile Include="Day 3\Day 3 Project Treasure Island\main %281%29.py" />
+    <Compile Include="Day 3\Day 3 Project Treasure Island\mainPT.py" />
+    <Compile Include="Day 3\Exercise 1 - Odd or Even\main %281%29.py" />
+    <Compile Include="Day 3\Exercise 2 - BMI 2.0\main.py" />
+    <Compile Include="Day 3\Exercise 3 - Leap Year\main.py" />
+    <Compile Include="Day 3\Exercise 4 - Pizza Order Practice\main %281%29.py" />
+    <Compile Include="Day 3\Exercise 5 - Love Calculator\main.py" />
+    <Compile Include="Day 4\Exercise 1 - Heads or Tails\main.py" />
+    <Compile Include="Day 4\Exercise 2 - Banker Roulette\main %281%29.py" />
+    <Compile Include="Day 4\Exercise 3 - Treasure Map\main.py" />
+    <Compile Include="Day 4\Project Rock Paper Scissors\main %281%29.py" />
+    <Compile Include="Day 5\Day 5 Project Create a Password Generator\main.py" />
+    <Compile Include="Day 5\Exercise 1 - Average Height\main.py" />
+    <Compile Include="Day 5\Exercise 2 - High Score\main %281%29.py" />
+    <Compile Include="Day 5\Exercise 3 - Adding Even Numbers\main.py" />
+    <Compile Include="Day 5\Exercise 4 - FizzBuzz\main %281%29.py" />
+    <Compile Include="Day 7\Day-7-Hangman-1-End.py" />
+    <Compile Include="Day 7\Day-7-Hangman-2-End.py" />
+    <Compile Include="Day 7\Day-7-Hangman-3-End.py" />
+    <Compile Include="Day 7\Day-7-Hangman-4-End.py" />
+    <Compile Include="Day 7\Day-7-Hangman-5-End.py" />
+    <Compile Include="Day 7\hangman_art.py" />
+    <Compile Include="Day 7\hangman_words.py" />
+    <Compile Include="Day 8\Exercise 1 - Paint Area Calculator\main.py" />
+    <Compile Include="Day 8\Exercise 2 - Prime Numbers\main %281%29.py" />
+    <Compile Include="Day 8\Project caesar-cipher\art.py" />
+    <Compile Include="Day 8\Project caesar-cipher\caesar-cipher-1-end.py" />
+    <Compile Include="Day 8\Project caesar-cipher\caesar-cipher-2-end.py" />
+    <Compile Include="Day 8\Project caesar-cipher\caesar-cipher-3-end.py" />
+    <Compile Include="Day 8\Project caesar-cipher\caesar-cipher-4-end.py" />
+    <Compile Include="Day 9\blind-auction-completed\art.py" />
+    <Compile Include="Day 9\blind-auction-completed\main.py" />
+    <Compile Include="Day 9\Exercise 1 - Grading Program\main.py" />
+    <Compile Include="Day 9\Exercise 2 - Dictionary in List\main %281%29.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Day 7\Solution+-+Hangman+Flowchart+1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Day 10\" />
+    <Folder Include="Day 10\calculator" />
+    <Folder Include="Day 10\Exercise 1 - Days in Month" />
+    <Folder Include="Day 11" />
+    <Folder Include="Day 12" />
+    <Folder Include="Day 13\" />
+    <Folder Include="Day 13\Exercise 1 - Debugging Odd or Even" />
+    <Folder Include="Day 13\Exercise 2 - Debugging Leap Year" />
+    <Folder Include="Day 13\Exercise 3 - Debugging FizzBuzz" />
+    <Folder Include="Day 14" />
+    <Folder Include="Day 15" />
+    <Folder Include="Day 1\" />
+    <Folder Include="Day 1\band-name-generator-start" />
+    <Folder Include="Day 1\Exercise 1 - Printing" />
+    <Folder Include="Day 1\Exercise 2 - Debugging Practice" />
+    <Folder Include="Day 1\Exercise 3 - Input Function" />
+    <Folder Include="Day 1\Exercise 4 - Variables" />
+    <Folder Include="Day 2\" />
+    <Folder Include="Day 2\Exercise 1 - Data Types" />
+    <Folder Include="Day 2\Exercise 2 - BMI Calculator" />
+    <Folder Include="Day 2\Exercise 3 - Life in Weeks" />
+    <Folder Include="Day 2\Exercise 4 - tip-calculator-end" />
+    <Folder Include="Day 3\" />
+    <Folder Include="Day 3\Day 3 Project Treasure Island" />
+    <Folder Include="Day 3\Exercise 1 - Odd or Even" />
+    <Folder Include="Day 3\Exercise 2 - BMI 2.0" />
+    <Folder Include="Day 3\Exercise 3 - Leap Year" />
+    <Folder Include="Day 3\Exercise 4 - Pizza Order Practice" />
+    <Folder Include="Day 3\Exercise 5 - Love Calculator" />
+    <Folder Include="Day 4\" />
+    <Folder Include="Day 4\Exercise 1 - Heads or Tails" />
+    <Folder Include="Day 4\Exercise 2 - Banker Roulette" />
+    <Folder Include="Day 4\Exercise 3 - Treasure Map" />
+    <Folder Include="Day 4\Project Rock Paper Scissors" />
+    <Folder Include="Day 5\" />
+    <Folder Include="Day 5\Day 5 Project Create a Password Generator" />
+    <Folder Include="Day 5\Exercise 1 - Average Height" />
+    <Folder Include="Day 5\Exercise 2 - High Score" />
+    <Folder Include="Day 5\Exercise 3 - Adding Even Numbers" />
+    <Folder Include="Day 5\Exercise 4 - FizzBuzz" />
+    <Folder Include="Day 7" />
+    <Folder Include="Day 8\" />
+    <Folder Include="Day 8\Exercise 1 - Paint Area Calculator" />
+    <Folder Include="Day 8\Exercise 2 - Prime Numbers" />
+    <Folder Include="Day 8\Project caesar-cipher" />
+    <Folder Include="Day 9\" />
+    <Folder Include="Day 9\blind-auction-completed" />
+    <Folder Include="Day 9\Exercise 1 - Grading Program" />
+    <Folder Include="Day 9\Exercise 2 - Dictionary in List" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="Day 15\venv\">
+      <Id>venv</Id>
+      <Description>venv (Python 3.8 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <Version>3.8</Version>
+      <Architecture>X64</Architecture>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+    </Interpreter>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
