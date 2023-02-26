@@ -18,7 +18,7 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 14: Project - Higher Lower Game 
 - [X] Day 15: IDE
 - [X] Day 16: OOP
-- [ ] Day 17: OOP
+- [X] Day 17: OOP
 - [ ] Day 18:
 - [ ] Day 19:
 - [ ] Day 20:
