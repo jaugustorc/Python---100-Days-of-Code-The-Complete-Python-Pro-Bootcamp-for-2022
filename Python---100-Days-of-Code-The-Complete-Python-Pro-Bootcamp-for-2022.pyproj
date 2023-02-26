@@ -5,13 +5,13 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{ea51e654-c6a9-4c92-a31f-af89bd3b699d}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>Day 15/main.py</StartupFile>
+    <StartupFile>Day 16\Start\start.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <InterpreterId>MSBuild|venv|$(MSBuildProjectFullPath)</InterpreterId>
+    <InterpreterId>MSBuild|100 days|$(MSBuildProjectFullPath)</InterpreterId>
     <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
@@ -35,6 +35,9 @@
     <Compile Include="Day 14\game_data.py" />
     <Compile Include="Day 14\main.py" />
     <Compile Include="Day 15\main.py" />
+    <Compile Include="Day 16\Start\coffee_maker.py" />
+    <Compile Include="Day 16\Start\menu.py" />
+    <Compile Include="Day 16\Start\money_machine.py" />
     <Compile Include="Day 1\band-name-generator-start\main %281%29.py" />
     <Compile Include="Day 1\Exercise 1 - Printing\main.py" />
     <Compile Include="Day 1\Exercise 2 - Debugging Practice\main.py" />
@@ -80,7 +83,9 @@
     <Compile Include="Day 9\Exercise 2 - Dictionary in List\main %281%29.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Day 16\Start\start.py" />
     <Content Include="Day 7\Solution+-+Hangman+Flowchart+1.png" />
+    <Content Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Day 10\" />
@@ -94,6 +99,7 @@
     <Folder Include="Day 13\Exercise 3 - Debugging FizzBuzz" />
     <Folder Include="Day 14" />
     <Folder Include="Day 15" />
+    <Folder Include="Day 16\Start\" />
     <Folder Include="Day 1\" />
     <Folder Include="Day 1\band-name-generator-start" />
     <Folder Include="Day 1\Exercise 1 - Printing" />
@@ -132,8 +138,18 @@
     <Folder Include="Day 9\blind-auction-completed" />
     <Folder Include="Day 9\Exercise 1 - Grading Program" />
     <Folder Include="Day 9\Exercise 2 - Dictionary in List" />
+    <Folder Include="Day 16\" />
   </ItemGroup>
   <ItemGroup>
+    <Interpreter Include="100 days\">
+      <Id>100 days</Id>
+      <Version>3.8</Version>
+      <Description>100 days (Python 3.8 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
     <Interpreter Include="Day 15\venv\">
       <Id>venv</Id>
       <Description>venv (Python 3.8 (64-bit))</Description>

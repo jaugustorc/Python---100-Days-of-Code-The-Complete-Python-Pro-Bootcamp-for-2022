@@ -9,15 +9,15 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 5: Loop
 - [X] Day 6: Function and While
 - [X] Day 7: Project - Hangman 
-- [X] Day 8: Fuction Parameters
-- [X] Day 9: Dictonary, Nesting, Scret Auction
-- [X] Day 10: Fuctions with output
-- [X] Day 11: Project -The Blackjacl Capstone
+- [X] Day 8: Function Parameters
+- [X] Day 9: Dictionary, Nesting, Secret Auction
+- [X] Day 10: Functions with output
+- [X] Day 11: Project -The Blackjack Capstone
 - [X] Day 12: Scope & Number Guessing Game
 - [X] Day 13: Debugging: How to Find and Fix Errors in your Code
 - [X] Day 14: Project - Higher Lower Game 
 - [X] Day 15: IDE
-- [ ] Day 16: OOP
+- [X] Day 16: OOP
 - [ ] Day 17: OOP
 - [ ] Day 18:
 - [ ] Day 19:
