@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/100 days/Lib/site-packages
+/100 days/Scripts
+*.cfg
+*.vsidx
