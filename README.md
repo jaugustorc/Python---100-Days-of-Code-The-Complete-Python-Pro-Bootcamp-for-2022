@@ -19,10 +19,10 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 15: IDE
 - [X] Day 16: OOP
 - [X] Day 17: OOP
-- [ ] Day 18:
-- [ ] Day 19:
-- [ ] Day 20:
-- [ ] Day 21: 
+- [X] Day 18: Turtle User Interface
+- [ ] Day 19: Instances, State and Higher Order Functions
+- [ ] Day 20: Project - Snake Game - Part 1
+- [ ] Day 21: Project - Snake Game - Part 2
 - [ ] Day 22: 
 - [ ] Day 23:
 - [ ] Day 24:
