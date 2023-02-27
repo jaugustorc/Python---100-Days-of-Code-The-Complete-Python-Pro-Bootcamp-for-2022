@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{ea51e654-c6a9-4c92-a31f-af89bd3b699d}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>Day 18\hirst_painting.py</StartupFile>
+    <StartupFile>Day 19\etch-a-sketch\main.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -48,6 +48,8 @@
     <Compile Include="Day 18\day-18-4.py" />
     <Compile Include="Day 18\day-18-5.py" />
     <Compile Include="Day 18\hirst_painting.py" />
+    <Compile Include="Day 19\etch-a-sketch\main.py" />
+    <Compile Include="Day 19\turtle-race\main.py" />
     <Compile Include="Day 1\band-name-generator-start\main %281%29.py" />
     <Compile Include="Day 1\Exercise 1 - Printing\main.py" />
     <Compile Include="Day 1\Exercise 2 - Debugging Practice\main.py" />
@@ -111,6 +113,9 @@
     <Folder Include="Day 15" />
     <Folder Include="Day 16\Start\" />
     <Folder Include="Day 17\Quiz game\" />
+    <Folder Include="Day 19\" />
+    <Folder Include="Day 19\etch-a-sketch\" />
+    <Folder Include="Day 19\turtle-race\" />
     <Folder Include="Day 1\" />
     <Folder Include="Day 1\band-name-generator-start" />
     <Folder Include="Day 1\Exercise 1 - Printing" />
