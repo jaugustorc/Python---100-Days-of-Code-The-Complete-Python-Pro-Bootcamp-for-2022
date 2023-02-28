@@ -6,3 +6,5 @@
 /100 days/Scripts
 *.cfg
 *.vsidx
+/Day 20/__pycache__/snake.cpython-38.pyc
+/Day 21/Snake Game/__pycache__/snake.cpython-38.pyc
