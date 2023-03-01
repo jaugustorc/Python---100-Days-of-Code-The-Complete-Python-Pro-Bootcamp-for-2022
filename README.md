@@ -23,8 +23,8 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 19: Instances, State and Higher Order Functions
 - [X] Day 20: Project - Snake Game - Part 1
 - [X] Day 21: Class Inheritance, List Slicing, Project - Snake Game - Part 2
-- [ ] Day 22: Project - Build Pong
-- [ ] Day 23: 
+- [X] Day 22: Project - Build Pong
+- [ ] Day 23: Project - Turtle Crossing Capstone
 - [ ] Day 24:
 - [ ] Day 25:
 - [ ] Day 26:
