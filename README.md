@@ -24,10 +24,10 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [X] Day 20: Project - Snake Game - Part 1
 - [X] Day 21: Class Inheritance, List Slicing, Project - Snake Game - Part 2
 - [X] Day 22: Project - Build Pong
-- [ ] Day 23: Project - Turtle Crossing Capstone
-- [ ] Day 24:
-- [ ] Day 25:
-- [ ] Day 26:
+- [X] Day 23: Project - Turtle Crossing Capstone
+- [ ] Day 24: Files, Directories and Path
+- [ ] Day 25: CSV, Pandas
+- [ ] Day 26: 
 - [ ] Day 27:
 - [ ] Day 28:
 - [ ] Day 29:
