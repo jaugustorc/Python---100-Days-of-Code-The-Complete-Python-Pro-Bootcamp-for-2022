@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Day 20",
-    "\\Day 22"
+    "\\Day 21",
+    "\\Day 22",
+    "\\Day 23"
   ],
-  "SelectedNode": "\\Day 22\\main.py",
+  "SelectedNode": "\\Day 22\\scoreboard.py",
   "PreviewInSolutionExplorer": false
 }

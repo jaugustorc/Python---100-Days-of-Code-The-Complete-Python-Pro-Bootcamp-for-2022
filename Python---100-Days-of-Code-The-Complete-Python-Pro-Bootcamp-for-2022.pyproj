@@ -63,6 +63,14 @@
     <Compile Include="Day 21\Snake Game\main.py" />
     <Compile Include="Day 21\Snake Game\scoreboard.py" />
     <Compile Include="Day 21\Snake Game\snake.py" />
+    <Compile Include="Day 22\ball.py" />
+    <Compile Include="Day 22\main.py" />
+    <Compile Include="Day 22\paddle.py" />
+    <Compile Include="Day 22\scoreboard.py" />
+    <Compile Include="Day 23\car_manager.py" />
+    <Compile Include="Day 23\main.py" />
+    <Compile Include="Day 23\player.py" />
+    <Compile Include="Day 23\scoreboard.py" />
     <Compile Include="Day 2\Exercise 1 - Data Types\main.py" />
     <Compile Include="Day 2\Exercise 2 - BMI Calculator\main %281%29.py" />
     <Compile Include="Day 2\Exercise 3 - Life in Weeks\main.py" />
@@ -104,6 +112,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Day 16\Start\start.py" />
+    <Content Include="Day 22\__pycache__\ball.cpython-38.pyc" />
+    <Content Include="Day 22\__pycache__\paddle.cpython-38.pyc" />
+    <Content Include="Day 22\__pycache__\scoreboard.cpython-38.pyc" />
+    <Content Include="Day 23\__pycache__\car_manager.cpython-38.pyc" />
+    <Content Include="Day 23\__pycache__\player.cpython-38.pyc" />
+    <Content Include="Day 23\__pycache__\scoreboard.cpython-38.pyc" />
     <Content Include="Day 7\Solution+-+Hangman+Flowchart+1.png" />
     <Content Include="README.md" />
   </ItemGroup>
@@ -132,6 +146,10 @@
     <Folder Include="Day 1\Exercise 4 - Variables" />
     <Folder Include="Day 20\" />
     <Folder Include="Day 21\Snake Game\" />
+    <Folder Include="Day 22\" />
+    <Folder Include="Day 22\__pycache__\" />
+    <Folder Include="Day 23\" />
+    <Folder Include="Day 23\__pycache__\" />
     <Folder Include="Day 2\" />
     <Folder Include="Day 2\Exercise 1 - Data Types" />
     <Folder Include="Day 2\Exercise 2 - BMI Calculator" />
@@ -168,6 +186,7 @@
     <Folder Include="Day 17\" />
     <Folder Include="Day 18\" />
     <Folder Include="Day 21\" />
+    <Folder Include="Day 24\" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="100 days\">
