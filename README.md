@@ -44,7 +44,7 @@ Python - 100 Days of Code The Complete Python Pro Bootcamp for 2022
 - [ ] Day 40:
 - [X] Day 41: Web Foundation: HTML
 - [X] Day 42: Web Foundation: HTML Intermedidate
-- [ ] Day 43: Web Foundation: CSS
+- [x] Day 43: Web Foundation: CSS
 - [ ] Day 44: Web Foundation: CSS Intermedidate
 - [ ] Day 45:
 - [ ] Day 46:
